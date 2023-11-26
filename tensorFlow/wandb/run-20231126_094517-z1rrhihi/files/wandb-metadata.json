@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.10.9",
+    "heartbeatAt": "2023-11-26T04:15:18.688250",
+    "startedAt": "2023-11-26T04:15:17.407401",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/vikramviky123/deeplearning.git",
+        "commit": "ab2df089084c61b78cfde25c19ebd8f00128156f"
+    },
+    "email": "58477512+vikramviky123@users.noreply.github.com",
+    "root": "C:/Users/91981/Desktop/GREAT LEARNING/FROM SCRATCH LEARNING/PYTHON/deeplearning",
+    "host": "DESKTOP-VT4A3T3",
+    "username": "91981",
+    "executable": "c:\\Users\\91981\\anaconda3\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2100.0,
+        "min": 0.0,
+        "max": 2100.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2100.0,
+            "min": 0.0,
+            "max": 2100.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 237.22753524780273,
+            "used": 216.19768142700195
+        }
+    },
+    "memory": {
+        "total": 7.22601318359375
+    }
+}
