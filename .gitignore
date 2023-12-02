@@ -29,3 +29,4 @@ nlp/data/*
 nlp/helper.py
 nlp/__pycache__/
 nlp/supervised_word_embeddings.ipynb
+nlp/word2vec-spamcollection.model
