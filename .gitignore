@@ -30,3 +30,22 @@ nlp/helper.py
 nlp/__pycache__/
 nlp/supervised_word_embeddings.ipynb
 nlp/word2vec-spamcollection.model
+langchain_crash_course/api_key.py
+langchain_crash_course/__pycache__
+cats and dogs/data
+cats and dogs/tmp
+cats and dogs/models
+cats and dogs/__pycache__
+tensorflow/data
+tensorflow/models
+tensorflow/wandb
+tensorflow/weights
+tensorflow/__pycache__
+Prompt_Engg-LangChain/__pycache__
+Prompt_Engg-LangChain/check
+Prompt_Engg-LangChain/api_key.py
+
+
+
+
+
