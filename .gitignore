@@ -22,7 +22,6 @@ rad.json
 TestResults.xml
 
 #
-*.xlsx
 #
 nlp/data/*
 #
